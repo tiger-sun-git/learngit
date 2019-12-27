@@ -1,4 +1,5 @@
 Git is a version control system.
 Git is free software.
 me into text by tiger.
-文本中写中文，用git push
+鏂囨湰涓啓涓枃锛岀敤git push
+鍥犱负涔辩爜锛屽啀鍐欙紝鍙﹀瓨涓篣TF-8.
